@@ -1,0 +1,5 @@
+.DS_Store
+local.env
+
+# Skills synced from claude.ai, managed outside this repo.
+skills/synced/
